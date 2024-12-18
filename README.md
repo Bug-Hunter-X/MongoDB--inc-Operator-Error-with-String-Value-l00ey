@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the MongoDB $inc operator: providing a non-numeric value.  The `bug.js` file shows the incorrect usage, resulting in an error. The `bugSolution.js` file provides the corrected version.  Ensure that you use only numerical values (integers or floating point numbers) with the $inc operator.
